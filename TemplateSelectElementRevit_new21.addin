@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\AutomatedPlacementOfRooms.dll"</Assembly>		
+		<AddInId>FEF2DEA2-5149-4E5E-BCA4-66EA9078FA3E</AddInId>
+		<FullClassName>AutomatedPlacementOfRooms.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Тестовое приложение для Revit</Text>
+	</AddIn>
+</RevitAddIns>

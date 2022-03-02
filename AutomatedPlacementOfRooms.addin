@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\AutomatedPlacementOfRooms.dll"</Assembly>
+		<AddInId>9F907557-1C5B-4379-A515-6A75E2DC27E3</AddInId>
+		<FullClassName>AutomatedPlacementOfRooms.PlacementRooms</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Автоматическая расстановка помещений</Text>
+	</AddIn>
+</RevitAddIns>
